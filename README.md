@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/DevAg775/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/DevAg775/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/DevAg775/Leetcode/tree/master/0189-rotate-array) |
+| [0724-find-pivot-index](https://github.com/DevAg775/Leetcode/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/DevAg775/Leetcode/tree/master/0867-transpose-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/DevAg775/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [2679-sum-in-a-matrix](https://github.com/DevAg775/Leetcode/tree/master/2679-sum-in-a-matrix) |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/DevAg775/Leetcode/tree/master/0074-search-a-2d-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/DevAg775/Leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
