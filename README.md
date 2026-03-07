@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/DevAg775/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/DevAg775/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/DevAg775/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0152-maximum-product-subarray](https://github.com/DevAg775/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/DevAg775/Leetcode/tree/master/0189-rotate-array) |
 | [0724-find-pivot-index](https://github.com/DevAg775/Leetcode/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/DevAg775/Leetcode/tree/master/0867-transpose-matrix) |
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/DevAg775/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/DevAg775/Leetcode/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
