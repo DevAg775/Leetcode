@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/DevAg775/Leetcode/tree/master/0415-add-strings) |
+| [2129-capitalize-the-title](https://github.com/DevAg775/Leetcode/tree/master/2129-capitalize-the-title) |
 ## Simulation
 |  |
 | ------- |
